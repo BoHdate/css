@@ -1,0 +1,38 @@
+body{
+    background-image: url(img/back.png);
+}
+
+header{
+    background-color: black;
+}
+
+.title{
+    font-family: monospace;
+    text-align: center;
+    color: white;
+}
+
+.mininame{
+ 
+    font-family: monospace;
+    text-align: center;
+    color: tomato;
+    font-size: 400%;
+}
+    
+.img-center{
+    display: block;
+    margin: auto
+    width: 1000px;
+    height: 500px; 
+    border: 1px solid black
+}
+
+.wiki{
+    background-color: black;
+    display: flex;
+    text-align: left;
+    margin-left: unset;
+    color: white;
+    font-size: 80%;
+}
